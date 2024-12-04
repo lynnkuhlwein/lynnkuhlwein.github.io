@@ -7,7 +7,7 @@ website:
     left:
       - personal.qmd
       - studies.qmd
-      - assignment3.qmd
+      - Assignment3.qmd
       - href: LynnKuhlweinCV.pdf
         text: CV
 
